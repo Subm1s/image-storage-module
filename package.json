@@ -1,0 +1,26 @@
+{
+  "name": "node-image-storage",
+  "version": "1.0.0",
+  "description": "Modules for CRUD operation with images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subm1s/image-storage-module.git"
+  },
+  "author": "Subm1s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subm1s/image-storage-module/issues"
+  },
+  "homepage": "https://github.com/Subm1s/image-storage-module#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-image-storage": "^1.0.0"
+  }
+}
